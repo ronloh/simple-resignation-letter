@@ -13,7 +13,7 @@ export default {
       { name: 'viewport', content: "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,user-scalable=no" },
       { hid: 'description', name: 'description', content: '' },
       { property: "og:title", content: "在下告辞！"},
-      { property: "og:description", content: "Don't know how to write a resignation letter? Trust me, I'm an engineer."},
+      { property: "og:description", content: "Hello it's me :)"},
       { property: "og:image", content: "https://resignation-24880.web.app/img/resign_01.jpg"},
       { property: "og:image:width", content: "282"},
       { property: "og:image:height", content: "200"},
