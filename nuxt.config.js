@@ -17,7 +17,7 @@ export default {
       { property: "og:image", content: "https://resignation-24880.web.app/img/resign_01.jpg"},
       { property: "og:image:width", content: "282"},
       { property: "og:image:height", content: "200"},
-      { property: "keywords", content: "resign, resignation, resignation letter, tender resignation, resignation letter format, bye bye, good bye"},
+      { property: "keywords", content: "resign, resignation, resignation letter, tender resignation, resignation letter format, bye bye, good bye, simple resignation letter, resignation letter sample, resign letter sample, simple resign letter, how to resign"},
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
