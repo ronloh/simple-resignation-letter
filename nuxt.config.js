@@ -47,15 +47,19 @@ export default {
       '@nuxtjs/firebase',
       {
         config: {
-          apiKey: 'AIzaSyB100PN7hRy_TOQkK1cNfnTmzbNSushmIw',
-          projectId: 'resignation-24880',
-          appId: '1:952315327155:web:0f25cd2b92be6ea8',
+          apiKey: process.env.FIREBASE_WEB_API_KEY,
+          authDomain: "resignation-24880.firebaseapp.com",
+          databaseURL: "https://resignation-24880.firebaseio.com",
+          projectId: "resignation-24880",
+          storageBucket: "resignation-24880.appspot.com",
+          messagingSenderId: "952315327155",
+          appId: "1:952315327155:web:0f25cd2b92be6ea8",
           measurementId: "G-T8YX9MX4KG"
         },
         services: {
-          analytics: false,
+          analytics: true,
         },
-        
+        useFirebaseHosting: true
       }
     ]
   ],
