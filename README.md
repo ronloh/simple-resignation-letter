@@ -1,6 +1,7 @@
 ## Build Setup
 
 # PS: Use this website at your own risk :)
+- Currently it's being served at https://byebyef.ml
 
 ```bash
 # install dependencies
