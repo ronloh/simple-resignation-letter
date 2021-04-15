@@ -1,6 +1,6 @@
-# resign
-
 ## Build Setup
+
+# PS: Use this website at your own risk :)
 
 ```bash
 # install dependencies
